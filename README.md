@@ -11,13 +11,6 @@ BariGhor.com is a simple and user-friendly e-commerce website focused on selling
 - Responsive and clean UI design
 - About page with company information
 
-## Technologies Used
-
-- PHP for backend logic
-- MySQL for database management
-- HTML, CSS for frontend design
-- JavaScript for client-side interactions (if any)
-- XAMPP for local development environment
 
   
 Live Link: (https://barighor.42web.io/)
